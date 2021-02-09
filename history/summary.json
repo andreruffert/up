@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.andreruffert.com",
     "slug": "andreruffert-com",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 519,
-    "timeDay": 473,
-    "timeWeek": 544,
-    "timeMonth": 512,
-    "timeYear": 519,
+    "uptimeYear": "99.92%",
+    "time": 516,
+    "timeDay": 400,
+    "timeWeek": 484,
+    "timeMonth": 509,
+    "timeYear": 516,
     "dailyMinutesDown": {
       "2021-01-20": 40
     }
