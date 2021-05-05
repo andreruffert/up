@@ -7,6 +7,8 @@ sites: # List of endpoints to track
     
 status-website:
   baseUrl: /up
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Uptime monitor
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
