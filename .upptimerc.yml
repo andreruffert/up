@@ -1,8 +1,12 @@
 owner: andreruffert # GitHub username
 repo: up # GitHub repository name
+
 sites: # List of endpoints to track
   - name: andreruffert.com
     url: https://www.andreruffert.com
+    
+status-website:
+  baseUrl: /up
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
