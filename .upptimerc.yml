@@ -4,6 +4,8 @@ repo: up # GitHub repository name
 sites: # List of endpoints to track
   - name: andreruffert.com
     url: https://www.andreruffert.com
+  - name: letr.app
+    url: https://letr.app
     
 status-website:
   baseUrl: /up
