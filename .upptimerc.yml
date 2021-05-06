@@ -3,7 +3,7 @@ repo: up # GitHub repository name
 
 sites: # List of endpoints to track
   - name: andreruffert.com
-    url: https://www.andreruffert.com
+    url: https://andreruffert.com
   - name: letr.app
     url: https://letr.app
     
