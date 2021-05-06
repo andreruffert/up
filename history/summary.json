@@ -1,8 +1,8 @@
 [
   {
     "name": "andreruffert.com",
-    "url": "https://www.andreruffert.com",
-    "icon": "https://favicons.githubusercontent.com/www.andreruffert.com",
+    "url": "https://andreruffert.com",
+    "icon": "https://favicons.githubusercontent.com/andreruffert.com",
     "slug": "andreruffert-com",
     "status": "up",
     "uptime": "99.98%",
@@ -10,13 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 437,
-    "timeDay": 1150,
-    "timeWeek": 537,
-    "timeMonth": 467,
-    "timeYear": 437,
+    "time": 435,
+    "timeDay": 894,
+    "timeWeek": 495,
+    "timeMonth": 457,
+    "timeYear": 435,
     "dailyMinutesDown": {
       "2021-01-20": 40
     }
+  },
+  {
+    "name": "letr.app",
+    "url": "https://letr.app",
+    "icon": "https://favicons.githubusercontent.com/letr.app",
+    "slug": "letr-app",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 141,
+    "timeDay": 141,
+    "timeWeek": 141,
+    "timeMonth": 141,
+    "timeYear": 141,
+    "dailyMinutesDown": {}
   }
 ]
