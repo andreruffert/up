@@ -25,9 +25,9 @@
     "url": "https://letr.app",
     "icon": "https://favicons.githubusercontent.com/letr.app",
     "slug": "letr-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +36,8 @@
     "timeWeek": 296,
     "timeMonth": 340,
     "timeYear": 362,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-12": 0
+    }
   }
 ]
