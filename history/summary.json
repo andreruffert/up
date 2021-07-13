@@ -10,11 +10,11 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 396,
-    "timeDay": 387,
-    "timeWeek": 296,
-    "timeMonth": 279,
-    "timeYear": 396,
+    "time": 395,
+    "timeDay": 349,
+    "timeWeek": 267,
+    "timeMonth": 283,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2021-07-12": 30,
       "2021-01-20": 40
@@ -26,18 +26,16 @@
     "icon": "https://favicons.githubusercontent.com/letr.app",
     "slug": "letr-app",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 362,
-    "timeDay": 257,
-    "timeWeek": 305,
-    "timeMonth": 341,
-    "timeYear": 362,
-    "dailyMinutesDown": {
-      "2021-07-12": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 361,
+    "timeDay": 351,
+    "timeWeek": 310,
+    "timeMonth": 332,
+    "timeYear": 361,
+    "dailyMinutesDown": {}
   }
 ]
