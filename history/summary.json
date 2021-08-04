@@ -4,7 +4,7 @@
     "url": "https://andreruffert.com",
     "icon": "https://favicons.githubusercontent.com/andreruffert.com",
     "slug": "andreruffert-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 316,
     "timeYear": 389,
     "dailyMinutesDown": {
+      "2021-08-04": 0,
       "2021-07-12": 30,
       "2021-01-20": 40
     }
