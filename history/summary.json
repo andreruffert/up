@@ -4,18 +4,19 @@
     "url": "https://andreruffert.com",
     "icon": "https://favicons.githubusercontent.com/andreruffert.com",
     "slug": "andreruffert-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 393,
-    "timeDay": 334,
+    "timeDay": 304,
     "timeWeek": 332,
     "timeMonth": 346,
     "timeYear": 393,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-08-04": 18,
       "2021-07-12": 30,
       "2021-01-20": 40
@@ -26,7 +27,7 @@
     "url": "https://letr.app",
     "icon": "https://favicons.githubusercontent.com/letr.app",
     "slug": "letr-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +39,7 @@
     "timeMonth": 209,
     "timeYear": 283,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-10-20": 18
     }
   }
