@@ -4,7 +4,7 @@
     "url": "https://andreruffert.com",
     "icon": "https://favicons.githubusercontent.com/andreruffert.com",
     "slug": "andreruffert-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 372,
     "timeYear": 377,
     "dailyMinutesDown": {
+      "2022-07-08": 0,
       "2022-05-04": 47,
       "2022-04-14": 53,
       "2022-03-25": 22,
@@ -40,7 +41,7 @@
     "time": 518,
     "timeDay": 244,
     "timeWeek": 498,
-    "timeMonth": 480,
+    "timeMonth": 490,
     "timeYear": 543,
     "dailyMinutesDown": {
       "2022-05-02": 22,
