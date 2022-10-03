@@ -2,7 +2,7 @@
   {
     "name": "andreruffert.com",
     "url": "https://andreruffert.com",
-    "icon": "https://favicons.githubusercontent.com/andreruffert.com",
+    "icon": "https://icons.duckduckgo.com/ip3/andreruffert.com.ico",
     "slug": "andreruffert-com",
     "status": "up",
     "uptime": "99.96%",
@@ -11,8 +11,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 360,
-    "timeDay": 137,
-    "timeWeek": 388,
+    "timeDay": 132,
+    "timeWeek": 183,
     "timeMonth": 237,
     "timeYear": 355,
     "dailyMinutesDown": {
@@ -29,7 +29,7 @@
   {
     "name": "letr.app",
     "url": "https://letr.app",
-    "icon": "https://favicons.githubusercontent.com/letr.app",
+    "icon": "https://icons.duckduckgo.com/ip3/letr.app.ico",
     "slug": "letr-app",
     "status": "up",
     "uptime": "99.98%",
@@ -37,10 +37,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 519,
-    "timeDay": 98,
-    "timeWeek": 343,
-    "timeMonth": 423,
+    "time": 518,
+    "timeDay": 88,
+    "timeWeek": 328,
+    "timeMonth": 391,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2022-08-25": 21,
