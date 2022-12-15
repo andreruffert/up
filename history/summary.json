@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 354,
-    "timeDay": 1133,
-    "timeWeek": 718,
+    "time": 353,
+    "timeDay": 110,
+    "timeWeek": 706,
     "timeMonth": 395,
     "timeYear": 342,
     "dailyMinutesDown": {
@@ -33,15 +33,15 @@
     "slug": "letr-app",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 526,
-    "timeDay": 1342,
+    "timeDay": 174,
     "timeWeek": 872,
     "timeMonth": 711,
-    "timeYear": 648,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2022-12-13": 16,
       "2022-12-06": 16,
@@ -50,8 +50,7 @@
       "2022-05-02": 22,
       "2022-03-13": 20,
       "2022-03-12": 1,
-      "2022-03-02": 18,
-      "2021-12-15": 23
+      "2022-03-02": 18
     }
   }
 ]
