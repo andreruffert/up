@@ -6,6 +6,8 @@ sites: # List of endpoints to track
     url: https://andreruffert.com
   - name: letr.app
     url: https://letr.app
+  - name: piphero.app
+    url: https://piphero.app
     
 status-website:
   baseUrl: /up
