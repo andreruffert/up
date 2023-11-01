@@ -28,9 +28,9 @@
     "slug": "letr-app",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 332,
     "timeDay": 157,
@@ -38,7 +38,6 @@
     "timeMonth": 178,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2023-10-31": 6,
       "2023-07-25": 16,
       "2022-12-13": 16,
       "2022-12-06": 16
