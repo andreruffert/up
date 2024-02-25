@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 185,
-    "timeDay": 78,
-    "timeWeek": 123,
-    "timeMonth": 135,
+    "timeDay": 129,
+    "timeWeek": 113,
+    "timeMonth": 137,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2023-09-13": 16,
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/letr.app.ico",
     "slug": "letr-app",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 93,
-    "timeWeek": 123,
-    "timeMonth": 185,
-    "timeYear": 208,
+    "time": 263,
+    "timeDay": 118,
+    "timeWeek": 102,
+    "timeMonth": 174,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2023-07-25": 16
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 201,
-    "timeDay": 111,
-    "timeWeek": 163,
-    "timeMonth": 190,
-    "timeYear": 201,
+    "time": 200,
+    "timeDay": 150,
+    "timeWeek": 120,
+    "timeMonth": 187,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2024-01-17": 15
     }
