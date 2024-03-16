@@ -4,7 +4,7 @@
     "url": "https://andreruffert.com",
     "icon": "https://icons.duckduckgo.com/ip3/andreruffert.com.ico",
     "slug": "andreruffert-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 146,
     "timeYear": 152,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2023-09-13": 16,
       "2023-07-25": 16
     }
@@ -26,10 +27,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/letr.app.ico",
     "slug": "letr-app",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 249,
     "timeDay": 109,
@@ -37,7 +38,7 @@
     "timeMonth": 132,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-03-16": 0,
+      "2024-03-16": 8,
       "2023-07-25": 16
     }
   },
