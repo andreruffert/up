@@ -4,11 +4,11 @@
     "url": "https://andreruffert.com",
     "icon": "https://icons.duckduckgo.com/ip3/andreruffert.com.ico",
     "slug": "andreruffert-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 164,
     "timeDay": 262,
@@ -16,7 +16,7 @@
     "timeMonth": 150,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2024-03-16": 8,
+      "2024-03-16": 0,
       "2023-09-13": 16,
       "2023-07-25": 16
     }
@@ -27,18 +27,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/letr.app.ico",
     "slug": "letr-app",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 246,
     "timeDay": 90,
     "timeWeek": 143,
     "timeMonth": 130,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2024-03-16": 15,
       "2023-07-25": 16
     }
   },
