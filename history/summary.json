@@ -4,18 +4,19 @@
     "url": "https://andreruffert.com",
     "icon": "https://icons.duckduckgo.com/ip3/andreruffert.com.ico",
     "slug": "andreruffert-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 152,
-    "timeDay": 220,
-    "timeWeek": 113,
-    "timeMonth": 144,
+    "timeDay": 197,
+    "timeWeek": 120,
+    "timeMonth": 145,
     "timeYear": 150,
     "dailyMinutesDown": {
+      "2024-04-17": 0,
       "2023-09-13": 16,
       "2023-07-25": 16
     }
