@@ -4,7 +4,7 @@
     "url": "https://andreruffert.com",
     "icon": "https://icons.duckduckgo.com/ip3/andreruffert.com.ico",
     "slug": "andreruffert-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 154,
     "timeYear": 152,
     "dailyMinutesDown": {
+      "2024-05-01": 0,
       "2023-09-13": 16,
       "2023-07-25": 16
     }
@@ -27,12 +28,12 @@
     "slug": "letr-app",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.42%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 202,
-    "timeDay": 171,
+    "timeDay": 208,
     "timeWeek": 153,
     "timeMonth": 151,
     "timeYear": 195,
