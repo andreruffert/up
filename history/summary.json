@@ -26,10 +26,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/letr.app.ico",
     "slug": "letr-app",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 225,
     "timeDay": 126,
@@ -37,7 +37,6 @@
     "timeMonth": 142,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2024-06-15": 10,
       "2024-04-30": 23,
       "2023-07-25": 16
     }
