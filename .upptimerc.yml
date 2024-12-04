@@ -5,7 +5,7 @@ sites: # List of endpoints to track
   - name: andreruffert.com
     url: https://andreruffert.com
   - name: letr.app
-    url: https://letr.app
+    url: https://letr.andreruffert.com
   - name: piphero.app
     url: https://piphero.app
     
