@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 173,
-    "timeWeek": 223,
-    "timeMonth": 255,
-    "timeYear": 190,
+    "timeDay": 199,
+    "timeWeek": 224,
+    "timeMonth": 254,
+    "timeYear": 191,
     "dailyMinutesDown": {
       "2024-07-02": 15
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 181,
-    "timeDay": 219,
-    "timeWeek": 295,
-    "timeMonth": 223,
+    "timeDay": 205,
+    "timeWeek": 282,
+    "timeMonth": 222,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2024-12-04": 15,
@@ -42,22 +42,22 @@
   },
   {
     "name": "piphero.app",
-    "url": "https://piphero.app",
-    "icon": "https://icons.duckduckgo.com/ip3/piphero.app.ico",
+    "url": "https://piphero.andreruffert.com",
+    "icon": "https://icons.duckduckgo.com/ip3/piphero.andreruffert.com.ico",
     "slug": "piphero-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 146,
-    "timeWeek": 211,
-    "timeMonth": 174,
+    "timeDay": 188,
+    "timeWeek": 214,
+    "timeMonth": 175,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-01-19": 0
+      "2025-01-19": 4
     }
   }
 ]
