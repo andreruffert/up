@@ -45,9 +45,9 @@
     "url": "https://piphero.app",
     "icon": "https://icons.duckduckgo.com/ip3/piphero.app.ico",
     "slug": "piphero-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,6 +56,8 @@
     "timeWeek": 211,
     "timeMonth": 174,
     "timeYear": 183,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-19": 0
+    }
   }
 ]
