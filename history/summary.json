@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 311,
-    "timeWeek": 270,
-    "timeMonth": 335,
+    "time": 272,
+    "timeDay": 308,
+    "timeWeek": 264,
+    "timeMonth": 336,
     "timeYear": 309,
-    "dailyMinutesDown": {
-      "2024-07-02": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "letr.app",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 164,
+    "timeDay": 210,
     "timeWeek": 173,
-    "timeMonth": 330,
+    "timeMonth": 331,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2024-12-04": 15
@@ -50,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 197,
-    "timeWeek": 172,
-    "timeMonth": 184,
+    "time": 178,
+    "timeDay": 171,
+    "timeWeek": 173,
+    "timeMonth": 186,
     "timeYear": 181,
     "dailyMinutesDown": {}
   }
