@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 162,
-    "timeWeek": 314,
-    "timeMonth": 329,
-    "timeYear": 315,
+    "time": 277,
+    "timeDay": 504,
+    "timeWeek": 344,
+    "timeMonth": 337,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 160,
-    "timeWeek": 256,
-    "timeMonth": 311,
+    "timeDay": 322,
+    "timeWeek": 277,
+    "timeMonth": 314,
     "timeYear": 253,
     "dailyMinutesDown": {
       "2024-12-04": 15
@@ -44,15 +44,15 @@
     "slug": "piphero-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.78%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 121,
-    "timeWeek": 140,
-    "timeMonth": 178,
-    "timeYear": 180,
+    "timeDay": 288,
+    "timeWeek": 156,
+    "timeMonth": 182,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2025-07-13": 18
     }
