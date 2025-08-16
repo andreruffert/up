@@ -4,18 +4,19 @@
     "url": "https://andreruffert.com",
     "icon": "https://icons.duckduckgo.com/ip3/andreruffert.com.ico",
     "slug": "andreruffert-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 339,
-    "timeWeek": 380,
-    "timeMonth": 348,
+    "timeDay": 170,
+    "timeWeek": 338,
+    "timeMonth": 336,
     "timeYear": 329,
     "dailyMinutesDown": {
+      "2025-08-16": 0,
       "2025-07-29": 19
     }
   },
@@ -31,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 246,
-    "timeWeek": 348,
-    "timeMonth": 379,
-    "timeYear": 271,
+    "timeDay": 389,
+    "timeWeek": 362,
+    "timeMonth": 380,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2024-12-04": 15
     }
@@ -44,18 +45,19 @@
     "url": "https://piphero.andreruffert.com",
     "icon": "https://icons.duckduckgo.com/ip3/piphero.andreruffert.com.ico",
     "slug": "piphero-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 126,
-    "timeWeek": 231,
-    "timeMonth": 230,
+    "timeDay": 183,
+    "timeWeek": 233,
+    "timeMonth": 226,
     "timeYear": 186,
     "dailyMinutesDown": {
+      "2025-08-16": 0,
       "2025-07-13": 18
     }
   }
