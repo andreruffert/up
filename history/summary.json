@@ -6,17 +6,16 @@
     "slug": "andreruffert-com",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 324,
     "timeDay": 323,
     "timeWeek": 311,
     "timeMonth": 576,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-11-05": 9,
       "2025-07-29": 19
     }
   },
@@ -48,9 +47,9 @@
     "slug": "piphero-app",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 198,
     "timeDay": 178,
@@ -58,7 +57,6 @@
     "timeMonth": 313,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-11-05": 9,
       "2025-10-20": 26,
       "2025-07-13": 18
     }
