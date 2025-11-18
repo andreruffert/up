@@ -27,9 +27,9 @@
     "slug": "letr-app",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "93.41%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "94.19%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 357,
     "timeDay": 217,
@@ -37,7 +37,7 @@
     "timeMonth": 1156,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2025-11-18": 95,
+      "2025-11-18": 84,
       "2024-12-04": 15
     }
   },
@@ -46,7 +46,7 @@
     "url": "https://piphero.andreruffert.com",
     "icon": "https://icons.duckduckgo.com/ip3/piphero.andreruffert.com.ico",
     "slug": "piphero-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "92.92%",
     "uptimeWeek": "98.99%",
