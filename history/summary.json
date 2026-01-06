@@ -24,19 +24,19 @@
     "url": "https://letr.andreruffert.com",
     "icon": "https://icons.duckduckgo.com/ip3/letr.andreruffert.com.ico",
     "slug": "letr-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 8714,
-    "timeWeek": 2347,
-    "timeMonth": 780,
+    "time": 398,
+    "timeDay": 5856,
+    "timeWeek": 2102,
+    "timeMonth": 761,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2026-01-06": 0
+      "2026-01-06": 13
     }
   },
   {
