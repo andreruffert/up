@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 356,
-    "timeDay": 199,
-    "timeWeek": 150,
-    "timeMonth": 307,
+    "timeDay": 203,
+    "timeWeek": 158,
+    "timeMonth": 305,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2025-07-29": 19
@@ -26,18 +26,16 @@
     "slug": "letr-app",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 590,
-    "timeWeek": 437,
-    "timeMonth": 836,
-    "timeYear": 456,
-    "dailyMinutesDown": {
-      "2026-01-21": 11
-    }
+    "time": 407,
+    "timeDay": 746,
+    "timeWeek": 417,
+    "timeMonth": 846,
+    "timeYear": 457,
+    "dailyMinutesDown": {}
   },
   {
     "name": "piphero.app",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 184,
-    "timeWeek": 149,
-    "timeMonth": 192,
+    "timeDay": 156,
+    "timeWeek": 157,
+    "timeMonth": 189,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2025-07-13": 18
