@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/andreruffert.com.ico",
     "slug": "andreruffert-com",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 353,
-    "timeDay": 155,
+    "timeDay": 177,
     "timeWeek": 194,
-    "timeMonth": 209,
+    "timeMonth": 203,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2025-07-29": 19
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 429,
-    "timeDay": 220,
-    "timeWeek": 484,
-    "timeMonth": 437,
-    "timeYear": 481,
+    "timeDay": 720,
+    "timeWeek": 533,
+    "timeMonth": 428,
+    "timeYear": 482,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 132,
-    "timeWeek": 157,
-    "timeMonth": 208,
+    "timeDay": 128,
+    "timeWeek": 146,
+    "timeMonth": 203,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2025-07-13": 18
