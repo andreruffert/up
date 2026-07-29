@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 79,
-    "timeWeek": 156,
-    "timeMonth": 205,
-    "timeYear": 321,
-    "dailyMinutesDown": {
-      "2025-07-29": 19
-    }
+    "time": 350,
+    "timeDay": 563,
+    "timeWeek": 223,
+    "timeMonth": 220,
+    "timeYear": 322,
+    "dailyMinutesDown": {}
   },
   {
     "name": "letr.app",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 490,
-    "timeDay": 832,
-    "timeWeek": 766,
-    "timeMonth": 616,
-    "timeYear": 530,
+    "time": 492,
+    "timeDay": 989,
+    "timeWeek": 816,
+    "timeMonth": 644,
+    "timeYear": 531,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 341,
-    "timeWeek": 257,
-    "timeMonth": 232,
-    "timeYear": 277,
+    "timeDay": 286,
+    "timeWeek": 273,
+    "timeMonth": 238,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   }
 ]
